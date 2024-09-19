@@ -10,22 +10,11 @@ h1 {
     margin: 50px;
 }
 
-ul {
-    border: solid 5px #F02501;
-    padding: 20px;
-    padding-left: 50px;
-    color: #F02501;
-    background-color: #EBB68A;
-    margin: 50px;
-    margin-top: 0px;
-    display: inline-block;
-}
-
+ul,
 ol {
     border: solid 5px #F02501;
     padding: 20px;
     padding-left: 50px;
-    color: #F02501;
     background-color: #EBB68A;
     margin: 50px;
     margin-top: 0px;
@@ -55,6 +44,7 @@ img {
 
 h2 {
     margin-left: 50px;
+    color: black;
 }
 
 p {
@@ -65,6 +55,7 @@ p {
 .main-page-list {
     margin: 0px 200px;
     display: block;
+    color: #F02501;
 }
 
 .hem {
